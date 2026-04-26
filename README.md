@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:abdulbazid786@gmail.com">📧 Email</a> •
-  <a href="(https://www.linkedin.com/in/abdul-bazid-416a551b9/)">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/abdul-bazid-416a551b9/">💼 LinkedIn</a> •
   <a href="https://github.com/Abdulbazid">💻 GitHub</a>
 </p>
 
@@ -77,7 +77,6 @@ https://github.com/Abdulbazid/pdf_chatbot_with_memory
 
 ### 🤝 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/abdulbazid">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/abdul-bazid-416a551b9/">LinkedIn</a> •
 <a href="https://twitter.com/abdulbazid">Twitter</a> •
-<a href="https://medium.com/@abdulbazid">Medium</a>
 </p>
