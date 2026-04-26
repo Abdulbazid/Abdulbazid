@@ -57,12 +57,11 @@ YOLOv8 • FaceNet • Superset • Pandas
 ---
 
 ### 📌 Featured Project
-🔗 **Chat with PDFs (LangChain + Memory)**  
-https://github.com/Abdulbazid/pdf_chatbot_with_memory  
+🔗 **Urban-mobility-lakehouse**  
+[Github](https://github.com/Abdulbazid/urban-mobility-lakehouse)  
 
-- Context-aware PDF Q&A system  
-- Uses embeddings + conversational memory  
-- Built with LangChain + LLMs  
+- Medallion pipeline answering: does bad weather cause taxi fare surges?
+- Built with modern DE tech stack 
 
 ---
 
